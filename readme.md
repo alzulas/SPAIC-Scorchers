@@ -1,10 +1,10 @@
 ## Scorchers
 ### _Advanced Tutorial: Websockets MNIST parallel (OpenMined)_
 
-### Team Members
+**Team Members
 
 @Jess, @Krishna Chari, @Suraiya, @Leah, @Anju
 
-### Wiki Pages
+**Wiki Pages
 
 [Troubleshooting: Fixed Serialization Error](https://github.com/jess-s/SPAIC-Scorchers/wiki/Troubleshooting:-Fixed-serialization-error) @Suraiya
