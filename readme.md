@@ -1,7 +1,6 @@
+![](https://github.com/jess-s/SPAIC-Scorchers/blob/master/scorchers.jpg)  
 ## Scorchers
 ### _Advanced Tutorial: Websockets MNIST parallel (OpenMined)_
-
-![](https://github.com/jess-s/SPAIC-Scorchers/blob/master/scorchers.jpg)
 
 **Team Members**
 
