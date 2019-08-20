@@ -1,4 +1,5 @@
-## Scorchers: _Advanced Tutorial: Websockets MNIST parallel (OpenMined)_
+## Scorchers
+### _Advanced Tutorial: Websockets MNIST parallel (OpenMined)_
 
 ### Team Members
 
