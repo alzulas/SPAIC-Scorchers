@@ -1,9 +1,8 @@
-## Scorchers
-### _Websockets MNIST parallel (Advanced Tutorial)_
+## Scorchers: _Advanced Tutorial: Websockets MNIST parallel (OpenMined)_
 
 ### Team Members
 
-@Jess, @Krishna Chari, @Suraiya, @Leah
+@Jess, @Krishna Chari, @Suraiya, @Leah, @Anju
 
 ### Wiki Pages
 
